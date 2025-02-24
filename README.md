@@ -1,4 +1,4 @@
-# Duality: An AI employee that can control your computer.
+# Parity: An AI employee that can control your computer.
 ![Duality-demo](https://github.com/user-attachments/assets/3d9fa8c5-fd6a-4cac-b392-f817ebab7481)
 
 ## Overview 🔎
